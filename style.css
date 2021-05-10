@@ -1,0 +1,158 @@
+.gradient{
+    height: 100vh;
+    width: 100vw;
+    background-image: linear-gradient(45deg, #393e46, #00adb5, #aad8d3, #eeeeee);
+    background-size: 300% 300%;
+    animation: colors 15s ease infinite;
+}
+
+.imglogo{
+    width: 30%;
+}
+
+.center{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+@keyframes colors{
+    0%{
+        background-position: 0% 50%;
+    }
+    50%{
+        background-position: 100% 50%;
+    }
+    100%{
+        background-position: 0% 50%;
+    }
+}
+
+.btnfb{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 20px;
+    border-color: blue;
+    border-radius: 50px;
+    width: fit-content;
+    padding: 5px 20px 5px 20px;
+    background: none;
+}
+
+.btnfb:hover{
+    background: blue;
+    transition: 0.5s;
+    color:white;
+}
+
+.btngfb{
+    margin-top: 10px;
+    font-size: 20px;
+    border-color: blue;
+    border-radius: 50px;
+    width: fit-content;
+    padding: 5px 20px 5px 20px;
+    background: none;
+}
+
+.btngfb:hover{
+    background: blue;
+    transition: 0.5s;
+    color:white;
+}
+
+.btnsm{
+    margin-top: 10px;
+    font-size: 20px;
+    border-color: rgb(204, 20, 20);
+    border-radius: 50px;
+    width: fit-content;
+    padding: 5px 20px 5px 20px;
+    background: none;
+}
+
+.btnsm:hover{
+    background: rgb(204, 20, 20);
+    transition: 0.5s;
+    color:rgb(255, 255, 255);
+}
+
+.btntw{
+    margin-top: 10px;
+    font-size: 20px;
+    border-color: #2799b6;
+    border-radius: 50px;
+    width: fit-content;
+    padding: 5px 20px 5px 20px;
+    background: none;
+}
+
+.btntw:hover{
+    background: #2799b6;
+    transition: 0.5s;
+    color:rgb(255, 255, 255);
+}
+
+.btnyt{
+    margin-top: 10px;
+    font-size: 20px;
+    border-color: #b62525;
+    border-radius: 50px;
+    width: fit-content;
+    padding: 5px 20px 5px 20px;
+    background: none;
+}
+
+.btnyt:hover{
+    background: #b62525;
+    transition: 0.5s;
+    color:rgb(255, 255, 255);
+}
+
+.btnin{
+    margin-top: 10px;
+    font-size: 20px;
+    border-color: #b62575;
+    border-radius: 50px;
+    width: fit-content;
+    padding: 5px 20px 5px 20px;
+    background: none;
+}
+
+.btnin:hover{
+    background: #b62575;
+    transition: 0.5s;
+    color:rgb(255, 255, 255);
+}
+
+.btnwp{
+    margin-top: 10px;
+    font-size: 20px;
+    border-color: #429e1e;
+    border-radius: 50px;
+    width: fit-content;
+    padding: 5px 20px 5px 20px;
+    background: none;
+}
+
+.btnwp:hover{
+    background: #429e1e;
+    transition: 0.5s;
+    color:rgb(255, 255, 255);
+}
+
+.btntl{
+    border-color: #1e649e;
+    margin-top: 10px;
+    font-size: 20px;
+    border-radius: 50px;
+    width: fit-content;
+    padding: 5px 20px 5px 20px;
+    background: none;
+}
+
+.btntl:hover{
+    background: #1e649e;
+    transition: 0.5s;
+    color:rgb(255, 255, 255);
+}
+
