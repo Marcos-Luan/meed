@@ -28,46 +28,51 @@
 }
 
 .btnfb{
-    text-align: center;
+    text-decoration: none;
+    color: black;
     margin-top: 50px;
     font-size: 20px;
-    border-color: blue;
+    cursor: pointer;
     border-radius: 50px;
     width: fit-content;
     padding: 5px 20px 5px 20px;
-    background: none;
+    background: #ffffff;
 }
 
 .btnfb:hover{
-    background: blue;
+    background-color: rgb(5, 5, 189);
     transition: 0.5s;
     color:white;
 }
 
 .btngfb{
     margin-top: 10px;
+    color: black;
+    text-decoration: none;
     font-size: 20px;
-    border-color: blue;
+    cursor: pointer;
     border-radius: 50px;
     width: fit-content;
     padding: 5px 20px 5px 20px;
-    background: none;
+    background: #ffffff;
 }
 
 .btngfb:hover{
-    background: blue;
+    background: rgb(5, 5, 189);
     transition: 0.5s;
     color:white;
 }
 
 .btnsm{
     margin-top: 10px;
+    color: black;
+    text-decoration: none;
     font-size: 20px;
-    border-color: rgb(204, 20, 20);
+    cursor: pointer;
     border-radius: 50px;
     width: fit-content;
     padding: 5px 20px 5px 20px;
-    background: none;
+    background: #ffffff;
 }
 
 .btnsm:hover{
@@ -78,12 +83,14 @@
 
 .btntw{
     margin-top: 10px;
+    color: black;
+    text-decoration: none;
     font-size: 20px;
-    border-color: #2799b6;
+    cursor: pointer;
     border-radius: 50px;
     width: fit-content;
     padding: 5px 20px 5px 20px;
-    background: none;
+    background: #ffffff;
 }
 
 .btntw:hover{
@@ -94,28 +101,32 @@
 
 .btnyt{
     margin-top: 10px;
+    color: black;
+    text-decoration: none;
     font-size: 20px;
-    border-color: #b62525;
+    cursor: pointer;
     border-radius: 50px;
     width: fit-content;
     padding: 5px 20px 5px 20px;
-    background: none;
+    background: #ffffff;
 }
 
 .btnyt:hover{
-    background: #b62525;
+    background: #ac2121;
     transition: 0.5s;
     color:rgb(255, 255, 255);
 }
 
 .btnin{
     margin-top: 10px;
+    color: black;
+    text-decoration: none;
     font-size: 20px;
-    border-color: #b62575;
+    cursor: pointer;
     border-radius: 50px;
     width: fit-content;
     padding: 5px 20px 5px 20px;
-    background: none;
+    background: #ffffff;
 }
 
 .btnin:hover{
@@ -124,14 +135,34 @@
     color:rgb(255, 255, 255);
 }
 
-.btnwp{
+.btntt{
     margin-top: 10px;
+    color: black;
+    text-decoration: none;
     font-size: 20px;
-    border-color: #429e1e;
+    cursor: pointer;
     border-radius: 50px;
     width: fit-content;
     padding: 5px 20px 5px 20px;
-    background: none;
+    background: #ffffff;
+}
+
+.btntt:hover{
+    background: #2b2b2b;
+    transition: 0.5s;
+    color:rgb(255, 255, 255);
+}
+
+.btnwp{
+    margin-top: 10px;
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 50px;
+    width: fit-content;
+    padding: 5px 20px 5px 20px;
+    background: #ffffff;
 }
 
 .btnwp:hover{
@@ -141,13 +172,15 @@
 }
 
 .btntl{
-    border-color: #1e649e;
+    color: black;
+    text-decoration: none;
     margin-top: 10px;
     font-size: 20px;
+    cursor: pointer;
     border-radius: 50px;
     width: fit-content;
     padding: 5px 20px 5px 20px;
-    background: none;
+    background: #ffffff;
 }
 
 .btntl:hover{
@@ -155,4 +188,3 @@
     transition: 0.5s;
     color:rgb(255, 255, 255);
 }
-
