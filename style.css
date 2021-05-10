@@ -194,7 +194,7 @@ body{
     color:rgb(255, 255, 255);
 }
 
-@media screen and (min-width: 600px) {
+@media screen and (max-width: 600px) {
     .imglogo{
         padding-top: 100px;
         width: 50%;
@@ -202,56 +202,56 @@ body{
     
     .btnfb{
         text-align: center;
-        font-size: 50px;
-        padding: 5px 80px 5px 50px;
+        font-size: 20px;
+        padding: 5px 20px 5px 20px;
     }
     
     .btngfb{
         text-align: center;
-        font-size: 50px;
-        padding: 5px 80px 5px 50px;
+        font-size: 20px;
+        padding: 5px 20px 5px 20px;
     }
     
     .btnsm{
         text-align: center;
-        font-size: 50px;
-        padding: 5px 80px 5px 50px;
+        font-size: 20px;
+        padding: 5px 20px 5px 20px;
     }
     
     .btntw{
         text-align: center;
-        font-size: 50px;
-        padding: 5px 80px 5px 50px;
+        font-size: 20px;
+        padding: 5px 20px 5px 20px;
     }
     
     .btnyt{
         text-align: center;
-        font-size: 50px;
-        padding: 5px 80px 5px 50px;
+        font-size: 20px;
+        padding: 5px 20px 5px 20px;
     }
     
     .btnin{
         text-align: center;
-        font-size: 50px;
-        padding: 5px 80px 5px 50px;
+        font-size: 20px;
+        padding: 5px 20px 5px 20px;
     }
     
     
     .btntt{
         text-align: center;
-        font-size: 50px;
-        padding: 5px 80px 5px 50px;
+        font-size: 20px;
+        padding: 5px 20px 5px 20px;
     }
 
     .btnwp{
         text-align: center;
-        font-size: 50px;
-        padding: 5px 80px 5px 50px;
+        font-size: 20px;
+        padding: 5px 20px 5px 20px;
     }
 
     .btntl{
         text-align: center;
-        font-size: 50px;
-        padding: 5px 80px 5px 50px;
+        font-size: 20px;
+        padding: 5px 20px 5px 20px;
     }
 }
